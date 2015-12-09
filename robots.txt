@@ -1,0 +1,4 @@
+#Robots.txt
+
+User-agent : *
+Sitemap : http://challenger.eclair.ec-lyon.fr/sitemap.xml
